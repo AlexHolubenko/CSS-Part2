@@ -1,0 +1,83 @@
+body {
+	background-color: #b8b8b8;
+	font-size: 13px;
+	line-height: 18px;
+	color: #333;
+	font-family: sans-serif;
+}
+
+#content {
+	width: 800px;
+	padding: 20px 30px;
+	background-color: #fff;
+	margin: 0 auto; 
+}
+
+h1 {
+	font-size: 26px;
+	line-height: 30px;
+	color: #333;
+	font-weight: normal;
+	margin: 20px 0px 10px;
+}
+
+h2 {
+	font-size: 36px;
+	line-height: 46px;
+	color: #333;
+	font-weight: normal;
+	font-style: italic;
+	margin: 40px 0px 20px;
+}
+
+.fixed {
+	position: fixed;
+	top: 20px;
+	right: 0px;
+	width: 200px;
+	padding: 20px;
+	font-style: italic;
+	background-color: #666;
+	color: #fff;
+}
+
+#puzzle {
+    position: relative;
+    margin: 0 auto;
+    border: 5px solid #333;
+    width: 690px;
+    height: 552px;
+    background: url(img/v3/v3-watermark.jpg) no-repeat 0 0;
+}
+#puzzle img {
+	position: absolute;
+}    
+    #puzzle #img1 {top: 0px; left: 0px;}
+    #puzzle #img2 {top: 0px; left: 135px;}
+    #puzzle #img3 {top: 0px; left: 230px;}
+    #puzzle #img4 {top: 0px; left: 421px;}
+    #puzzle #img5 {top: 0px; left: 509px;}
+    #puzzle #img6 {top: 90px; left: 0px;}
+    #puzzle #img7 {top: 131px; left: 98px;}
+    #puzzle #img8 {top: 98px; left: 267px;}
+    #puzzle #img9 {top: 145px; left: 376px;}
+    #puzzle #img10 {top: 99px; left: 548px;}
+    /*second ten bloks*/
+    #puzzle #img11 {top: 277px; left: 0px;}
+    #puzzle #img12 {top: 232px; left: 136px;}
+    #puzzle #img13 {top: 272px; left: 231px;}
+    #puzzle #img14 {top: 229px; left: 412px;}
+    #puzzle #img15 {top: 276px; left: 508px;}
+    #puzzle #img16 {top: 365px; left: 0px;}
+    #puzzle #img17 {top: 407px; left: 98px;}
+    #puzzle #img18 {top: 377px; left: 272px;}
+    #puzzle #img19 {top: 419px; left: 368px;}
+    #puzzle #img20 {top: 370px; left: 580px;}
+
+
+
+
+
+
+
+
