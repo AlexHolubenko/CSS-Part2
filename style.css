@@ -42,12 +42,13 @@ h2 {
 }
 
 #puzzle {
-    position: relative;
+	position: relative;
     margin: 0 auto;
     border: 5px solid #333;
     width: 690px;
     height: 552px;
     background: url(img/v3/v3-watermark.jpg) no-repeat 0 0;
+
 }
 #puzzle img {
 	position: absolute;
